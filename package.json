@@ -13,6 +13,9 @@
     "postdeploy": "npm run migrate:production"
   },
   "keywords": [],
+  "engines": {
+       "node": "14.15.4"
+     },
   "author": "Zackry Broodie-Stewart",
   "license": "MIT",
   "dependencies": {
